@@ -1,0 +1,15 @@
+[
+    { "title": "Спальня", "class": "bedroom" },
+    { "title": "Кухня-гостиная", "class": "kitchen-living" },
+    { "title": "Гостиная", "class": "living" },
+    { "title": "Кухня", "class": "kitchen" },
+    { "title": "Прихожая", "class": "hallway" },
+    { "title": "Гардеробная", "class": "dressing" },
+    { "title": "Столовая", "class": "dining" },
+    { "title": "Детская", "class": "children" },
+    { "title": "Кабинет", "class": "cabinet" },
+    { "title": "Ванная", "class": "bathroom" },
+    { "title": "Туалет", "class": "toilet" },
+    { "title": "Лоджия", "class": "loggia" }
+  ]
+  

@@ -1,0 +1,180 @@
+{
+	"space": {
+		"id": "bedroom_4",
+		"rooms": [
+			{
+				"borders": [
+					"wall_1",
+					"wall_2",
+					"wall_3",
+					"wall_4",
+					"wall_5",
+					"wall_6",
+					"wall_7"
+				],
+				"id": "bedroom_4",
+				"title": "bedroom_4",
+				"type": "room"
+			}
+		],
+		"walls": [
+			{
+				"bearing": 1,
+				"corners": {
+					"end": {
+						"x": "4623",
+						"y": "5604"
+					},
+					"start": {
+						"x": "4644",
+						"y": "324"
+					}
+				},
+				"direction": "left",
+				"entities": [],
+				"height": 2800,
+				"id": "wall_1",
+				"thickness": 320,
+				"type": "outer"
+			},
+			{
+				"bearing": 1,
+				"corners": {
+					"end": {
+						"x": "4644",
+						"y": "324"
+					},
+					"start": {
+						"x": "2462",
+						"y": "335"
+					}
+				},
+				"direction": "left",
+				"entities": [
+					{
+						"height": 1500,
+						"id": "window_1",
+						"open": "in",
+						"position": 55,
+						"side": "left",
+						"thickness": 70,
+						"type": "window",
+						"width": 900
+					}
+				],
+				"height": 2800,
+				"id": "wall_2",
+				"thickness": 540,
+				"type": "outer"
+			},
+			{
+				"bearing": 1,
+				"corners": {
+					"end": {
+						"x": "2583",
+						"y": "5607"
+					},
+					"start": {
+						"x": "4623",
+						"y": "5604"
+					}
+				},
+				"direction": "left",
+				"entities": [],
+				"height": 2800,
+				"id": "wall_3",
+				"thickness": 100,
+				"type": "outer"
+			},
+			{
+				"bearing": 1,
+				"corners": {
+					"end": {
+						"x": "2588",
+						"y": "5246"
+					},
+					"start": {
+						"x": "2583",
+						"y": "5607"
+					}
+				},
+				"direction": "left",
+				"entities": [],
+				"height": 2800,
+				"id": "wall_4",
+				"thickness": 100,
+				"type": "outer"
+			},
+			{
+				"bearing": 1,
+				"corners": {
+					"end": {
+						"x": "2445",
+						"y": "1961"
+					},
+					"start": {
+						"x": "2462",
+						"y": "335"
+					}
+				},
+				"direction": "left",
+				"entities": [
+					{
+						"entrance": "primary",
+						"height": 2100,
+						"id": "door_1",
+						"model": "single",
+						"open": "out",
+						"position": 717,
+						"side": "start",
+						"thickness": 50,
+						"type": "door",
+						"width": 800
+					}
+				],
+				"height": 2800,
+				"id": "wall_5",
+				"thickness": 100,
+				"type": "outer"
+			},
+			{
+				"bearing": 1,
+				"corners": {
+					"end": {
+						"x": "846",
+						"y": "3534"
+					},
+					"start": {
+						"x": "2445",
+						"y": "1961"
+					}
+				},
+				"direction": "left",
+				"entities": [],
+				"height": 2800,
+				"id": "wall_6",
+				"thickness": 100,
+				"type": "outer"
+			},
+			{
+				"bearing": 1,
+				"corners": {
+					"end": {
+						"x": "846",
+						"y": "3534"
+					},
+					"start": {
+						"x": "2588",
+						"y": "5246"
+					}
+				},
+				"direction": "left",
+				"entities": [],
+				"height": 2800,
+				"id": "wall_7",
+				"thickness": 100,
+				"type": "outer"
+			}
+		]
+	}
+}

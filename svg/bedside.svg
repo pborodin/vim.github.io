@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+ <defs>
+  <symbol height="600" id="svg_1" version="1.1" viewBox="0.0 0.0 800.000 600.000" width="800" xmlns="http://www.w3.org/2000/svg">
+   <desc>Produce by Acme CAD Converter</desc>
+   <path d="m307.85,163.48l170.65,0" fill="none" stroke="black" stroke-width="2.0"/>
+   <path d="m478.5,163.48l0,273.04l0,-273.04z" fill="none" stroke="black" stroke-width="2.0"/>
+   <path d="m478.5,436.52l-170.65,0" fill="none" stroke="black" stroke-width="2.0"/>
+   <path d="m307.85,436.52l0,-273.04l0,273.04z" fill="none" stroke="black" stroke-width="2.0"/>
+   <path d="m478.5,180.54l6.83,0" fill="none" stroke="black" stroke-width="2.0"/>
+   <path d="m485.33,180.54l0,221.85l0,-221.85z" fill="none" stroke="black" stroke-width="2.0"/>
+   <path d="m485.33,402.39l-6.83,0" fill="none" stroke="black" stroke-width="2.0"/>
+   <path d="m485.33,270.99l3.41,0" fill="none" stroke="black" stroke-width="2.0"/>
+   <path d="m488.74,270.99l0,40.96l0,-40.96z" fill="none" stroke="black" stroke-width="2.0"/>
+   <path d="m488.74,311.95l-3.41,0" fill="none" stroke="black" stroke-width="2.0"/>
+   <path d="m485.33,267.58l6.82,0" fill="none" stroke="black" stroke-width="2.0"/>
+   <path d="m492.15,267.58l0,47.78l0,-47.78z" fill="none" stroke="black" stroke-width="2.0"/>
+   <path d="m492.15,315.36l-6.82,0" fill="none" stroke="black" stroke-width="2.0"/>
+  </symbol>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <use id="svg_2" transform="rotate(89.9907, 398.126, 310.5) matrix(1.55134, 0, 0, 0.80964, -246.576, -104.513)" x="15.58" xlink:href="#svg_1" y="212.59"/>
+ </g>
+</svg>

@@ -1,0 +1,121 @@
+{
+	"space": {
+		"id": "bedroom_6",
+		"rooms": [
+			{
+				"borders": [
+					"wall_1",
+					"wall_2",
+					"wall_3",
+					"wall_4"
+				],
+				"id": "bedroom_6",
+				"title": "bedroom_6",
+				"type": "room"
+			}
+		],
+		"walls": [
+			{
+				"bearing": 1,
+				"corners": {
+					"end": {
+						"x": "3637",
+						"y": "4418"
+					},
+					"start": {
+						"x": "3652",
+						"y": "323"
+					}
+				},
+				"direction": "left",
+				"entities": [],
+				"height": 2800,
+				"id": "wall_1",
+				"thickness": 90,
+				"type": "outer"
+			},
+			{
+				"bearing": 1,
+				"corners": {
+					"end": {
+						"x": "3652",
+						"y": "323"
+					},
+					"start": {
+						"x": "877",
+						"y": "337"
+					}
+				},
+				"direction": "left",
+				"entities": [
+					{
+						"height": 1500,
+						"id": "window_1",
+						"open": "in",
+						"position": 1441,
+						"side": "left",
+						"thickness": 70,
+						"type": "window",
+						"width": 1200
+					}
+				],
+				"height": 2800,
+				"id": "wall_2",
+				"thickness": 580,
+				"type": "outer"
+			},
+			{
+				"bearing": 1,
+				"corners": {
+					"end": {
+						"x": "879",
+						"y": "4406"
+					},
+					"start": {
+						"x": "3637",
+						"y": "4418"
+					}
+				},
+				"direction": "left",
+				"entities": [
+					{
+						"entrance": "primary",
+						"height": 2100,
+						"id": "door_1",
+						"model": "single",
+						"open": "in",
+						"position": 1862,
+						"side": "start",
+						"svgString": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"800.000\" height=\"600.000\" viewBox=\"0.0 0.0 800.000 600.000\" version=\"1.1\">\r\n<path d=\"M659.47 55.64L682.37 55.64\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M659.47 46.1L682.37 46.1\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M691.91 38.46L682.37 38.46\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M682.37 38.46L682.37 119.58\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M682.37 119.58L691.91 119.58\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M691.91 119.58L691.91 38.46\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M624.47 55.64L601.57 55.64\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M624.47 46.1L601.57 46.1\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M624.47 34.96L627.66 34.96\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M627.66 34.96L627.66 66.77\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M627.66 66.77L624.47 66.77\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M624.47 66.77L624.47 34.96\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M592.03 38.46L601.57 38.46\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M601.57 38.46L601.57 119.58\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M601.57 119.58L592.03 119.58\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M592.03 119.58L592.03 38.46\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M659.47 34.96L656.29 34.96\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M656.29 34.96L656.29 66.77\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M656.29 66.77L659.47 66.77\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M659.47 66.77L659.47 34.96\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M136.72 564.58L129.08 564.58\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M129.08 564.58L129.08 534.68\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M129.08 534.68L108.09 534.68\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M108.09 534.68L108.09 598.3\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M108.09 598.3L136.72 598.3\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M136.72 598.3L136.72 564.58\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M652.06 564.58L659.69 564.58\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M659.69 564.58L659.69 534.68\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M659.69 534.68L680.69 534.68\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M680.69 534.68L680.69 598.3\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M680.69 598.3L652.06 598.3\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M652.06 598.3L652.06 564.58\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M656.29 531.27L656.29 1.7\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M656.29 1.7L627.66 1.7\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M627.66 1.7L627.66 531.27\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M627.66 531.27L656.29 531.27\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M655.24 531.91L655.42 530.73M655.42 530.73L655.97 529.67M655.97 529.67L656.81 528.82M656.81 528.82L657.88 528.28M657.88 528.28L659.06 528.09M659.06 528.09L660.24 528.28M660.24 528.28L661.3 528.82M661.3 528.82L662.14 529.67M662.14 529.67L662.69 530.73M662.69 530.73L662.87 531.91M662.87 531.91L662.69 533.09M662.69 533.09L662.14 534.15M662.14 534.15L661.3 535M661.3 535L660.24 535.54M660.24 535.54L659.06 535.73M659.06 535.73L657.88 535.54M657.88 535.54L656.81 535M656.81 535L655.97 534.15M655.97 534.15L655.42 533.09M655.42 533.09L655.24 531.91\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M637.2 530L637.2 531.27\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M637.2 531.27L656.29 531.27\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M656.29 531.27L656.29 530\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M656.29 530L637.2 530\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M659.69 534.68L660.96 534.68\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M660.96 534.68L660.96 553.77\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M660.96 553.77L659.69 553.77\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M659.69 553.77L659.69 534.68\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n<path d=\"M627.66 2.86L613.34 3.9M613.34 3.9L599.06 5.34M599.06 5.34L584.82 7.15M584.82 7.15L570.64 9.36M570.64 9.36L556.52 11.94M556.52 11.94L542.47 14.91M542.47 14.91L528.51 18.26M528.51 18.26L514.65 21.98M514.65 21.98L500.89 26.08M500.89 26.08L487.25 30.55M487.25 30.55L473.74 35.38M473.74 35.38L460.36 40.58M460.36 40.58L447.13 46.15M447.13 46.15L434.05 52.06M434.05 52.06L421.14 58.33M421.14 58.33L408.4 64.95M408.4 64.95L395.85 71.91M395.85 71.91L383.49 79.21M383.49 79.21L371.33 86.83M371.33 86.83L359.38 94.79M359.38 94.79L347.65 103.07M347.65 103.07L336.15 111.66M336.15 111.66L324.89 120.55M324.89 120.55L313.87 129.76M313.87 129.76L303.11 139.25M303.11 139.25L292.6 149.03M292.6 149.03L282.37 159.1M282.37 159.1L272.41 169.44M272.41 169.44L262.74 180.04M262.74 180.04L253.35 190.9M253.35 190.9L244.27 202.01M244.27 202.01L235.49 213.37M235.49 213.37L227.01 224.96M227.01 224.96L218.86 236.77M218.86 236.77L211.03 248.8M211.03 248.8L203.53 261.04M203.53 261.04L196.36 273.47M196.36 273.47L189.53 286.1M189.53 286.1L183.04 298.9M183.04 298.9L176.91 311.88M176.91 311.88L171.13 325.02M171.13 325.02L165.7 338.31M165.7 338.31L160.64 351.74M160.64 351.74L155.94 365.3M155.94 365.3L151.62 378.99M151.62 378.99L147.66 392.79M147.66 392.79L144.08 406.69M144.08 406.69L140.88 420.68M140.88 420.68L138.06 434.75M138.06 434.75L135.62 448.9M135.62 448.9L133.56 463.1M133.56 463.1L131.89 477.36M131.89 477.36L130.6 491.66M130.6 491.66L129.71 505.98M129.71 505.98L129.2 520.33M129.2 520.33L129.08 534.68\"\r\nfill=\"none\" stroke=\"black\" stroke-width=\"2\"/>\r\n</svg>\r\n",
+						"thickness": 50,
+						"type": "door",
+						"width": 800
+					}
+				],
+				"height": 2800,
+				"id": "wall_3",
+				"thickness": 100,
+				"type": "outer"
+			},
+			{
+				"bearing": 1,
+				"corners": {
+					"end": {
+						"x": "877",
+						"y": "337"
+					},
+					"start": {
+						"x": "879",
+						"y": "4406"
+					}
+				},
+				"direction": "left",
+				"entities": [],
+				"height": 2800,
+				"id": "wall_4",
+				"thickness": 130,
+				"type": "outer"
+			}
+		]
+	}
+}

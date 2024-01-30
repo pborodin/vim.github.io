@@ -1,0 +1,527 @@
+{
+  "space": {
+    "id": "space_7",
+    "walls": [
+      {
+        "id": "wall_1",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 0,
+            "y": 0
+          },
+          "end": {
+            "x": 3000,
+            "y": 0
+          }
+        }
+      },
+      {
+        "id": "wall_2",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 3000,
+            "y": 0
+          },
+          "end": {
+            "x": 6000,
+            "y": 0
+          }
+        }
+      },
+      {
+        "id": "wall_3",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 6000,
+            "y": 0
+          },
+          "end": {
+            "x": 9000,
+            "y": 0
+          }
+        }
+      },
+      {
+        "id": "wall_4",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 9000,
+            "y": 0
+          },
+          "end": {
+            "x": 12000,
+            "y": 0
+          }
+        }
+      },
+      {
+        "id": "wall_5",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 600,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 12000,
+            "y": 0
+          },
+          "end": {
+            "x": 15000,
+            "y": 0
+          }
+        }
+      },
+      {
+        "id": "wall_6",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 15000,
+            "y": 0
+          },
+          "end": {
+            "x": 15000,
+            "y": 3000
+          }
+        }
+      },
+      {
+        "id": "wall_7",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 15000,
+            "y": 3000
+          },
+          "end": {
+            "x": 15000,
+            "y": 9000
+          }
+        }
+      },
+      {
+        "id": "wall_8",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 15000,
+            "y": 9000
+          },
+          "end": {
+            "x": 11000,
+            "y": 9000
+          }
+        }
+      },
+      {
+        "id": "wall_9",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 11000,
+            "y": 9000
+          },
+          "end": {
+            "x": 3000,
+            "y": 9000
+          }
+        }
+      },
+      {
+        "id": "wall_10",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 3000,
+            "y": 9000
+          },
+          "end": {
+            "x": 0,
+            "y": 9000
+          }
+        }
+      },
+      {
+        "id": "wall_11",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 0,
+            "y": 9000
+          },
+          "end": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "id": "wall_12",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 3000,
+            "y": 9000
+          },
+          "end": {
+            "x": 3000,
+            "y": 6000
+          }
+        }
+      },
+      {
+        "id": "wall_13",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 3000,
+            "y": 6000
+          },
+          "end": {
+            "x": 3000,
+            "y": 3000
+          }
+        }
+      },
+      {
+        "id": "wall_14",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 3000,
+            "y": 3000
+          },
+          "end": {
+            "x": 3000,
+            "y": 0
+          }
+        }
+      },
+      {
+        "id": "wall_15",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 3000,
+            "y": 3000
+          },
+          "end": {
+            "x": 6000,
+            "y": 3000
+          }
+        }
+      },
+      {
+        "id": "wall_16",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 6000,
+            "y": 3000
+          },
+          "end": {
+            "x": 6000,
+            "y": 0
+          }
+        }
+      },
+      {
+        "id": "wall_17",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 6000,
+            "y": 3000
+          },
+          "end": {
+            "x": 9000,
+            "y": 3000
+          }
+        }
+      },
+      {
+        "id": "wall_18",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 9000,
+            "y": 3000
+          },
+          "end": {
+            "x": 9000,
+            "y": 0
+          }
+        }
+      },
+      {
+        "id": "wall_19",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 3000,
+            "y": 6000
+          },
+          "end": {
+            "x": 11000,
+            "y": 6000
+          }
+        }
+      },
+      {
+        "id": "wall_20",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 11000,
+            "y": 6000
+          },
+          "end": {
+            "x": 11000,
+            "y": 9000
+          }
+        }
+      },
+      {
+        "id": "wall_21",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 11000,
+            "y": 6000
+          },
+          "end": {
+            "x": 12000,
+            "y": 6000
+          }
+        }
+      },
+      {
+        "id": "wall_22",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 12000,
+            "y": 6000
+          },
+          "end": {
+            "x": 12000,
+            "y": 3000
+          }
+        }
+      },
+      {
+        "id": "wall_23",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 12000,
+            "y": 3000
+          },
+          "end": {
+            "x": 12000,
+            "y": 0
+          }
+        }
+      },
+      {
+        "id": "wall_24",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 300,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 12000,
+            "y": 3000
+          },
+          "end": {
+            "x": 15000,
+            "y": 3000
+          }
+        }
+      }
+    ],
+    "rooms": [
+      {
+        "type": "room",
+        "id": "room_1",
+        "title": "example_1",
+        "borders": [
+          "wall_1",
+          "wall_14",
+          "wall_13",
+          "wall_12",
+          "wall_10",
+          "wall_11"
+        ]
+      },
+      {
+        "type": "room",
+        "id": "room_2",
+        "title": "example_1",
+        "borders": [
+          "wall_2",
+          "wall_16",
+          "wall_15",
+          "wall_14"
+        ]
+      },
+      {
+        "type": "room",
+        "id": "room_3",
+        "title": "example_1",
+        "borders": [
+          "wall_3",
+          "wall_18",
+          "wall_17",
+          "wall_16"
+        ]
+      },
+      {
+        "type": "room",
+        "id": "room_4",
+        "title": "example_1",
+        "borders": [
+          "wall_4",
+          "wall_23",
+          "wall_22",
+          "wall_21",
+          "wall_19",
+          "wall_13",
+          "wall_15",
+          "wall_17",
+          "wall_18"
+        ]
+      },
+      {
+        "type": "room",
+        "id": "room_5",
+        "title": "example_1",
+        "borders": [
+          "wall_5",
+          "wall_6",
+          "wall_24",
+          "wall_23"
+        ]
+      },
+      {
+        "type": "room",
+        "id": "room_6",
+        "title": "example_1",
+        "borders": [
+          "wall_7",
+          "wall_8",
+          "wall_20",
+          "wall_21",
+          "wall_22",
+          "wall_24"
+        ]
+      },
+      {
+        "type": "room",
+        "id": "room_7",
+        "title": "example_1",
+        "borders": [
+          "wall_9",
+          "wall_12",
+          "wall_19",
+          "wall_20"
+        ]
+      }
+    ]
+  }
+}

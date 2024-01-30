@@ -1,0 +1,292 @@
+{
+  "space": {
+    "id": "space_4",
+    "walls": [
+      {
+        "id": "wall_1",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 100,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 0,
+            "y": 1466
+          },
+          "end": {
+            "x": 707,
+            "y": 759
+          }
+        },
+        "entities": [
+          {
+            "id": "window_1",
+            "type": "window",
+            "height": 1500,
+            "width": 1000,
+            "thickness": 70,
+            "position": 0,
+            "open": "in",
+            "side": "left"
+          }
+        ]
+      },
+      {
+        "id": "wall_2",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 100,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 707,
+            "y": 759
+          },
+          "end": {
+            "x": 1573,
+            "y": 259
+          }
+        },
+        "entities": [
+          {
+            "id": "window_2",
+            "type": "window",
+            "height": 1500,
+            "width": 1000,
+            "thickness": 70,
+            "position": 0,
+            "open": "in",
+            "side": "left"
+          }
+        ]
+      },{
+        "id": "wall_3",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 100,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 1573,
+            "y": 259
+          },
+          "end": {
+            "x": 2539,
+            "y": 0
+          }
+        },
+        "entities": [
+          {
+            "id": "window_3",
+            "type": "window",
+            "height": 1500,
+            "width": 1000,
+            "thickness": 70,
+            "position": 0,
+            "open": "in",
+            "side": "left"
+          }
+        ]
+      },{
+        "id": "wall_4",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 100,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 2539,
+            "y": 0
+          },
+          "end": {
+            "x": 3539,
+            "y": 0
+          }
+        },
+        "entities": [
+          {
+            "id": "window_4",
+            "type": "window",
+            "height": 1500,
+            "width": 1000,
+            "thickness": 70,
+            "position": 0,
+            "open": "in",
+            "side": "left"
+          }
+        ]
+      },{
+        "id": "wall_5",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 100,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 3539,
+            "y": 0
+          },
+          "end": {
+            "x": 4505,
+            "y": 259
+          }
+        },
+        "entities": [
+          {
+            "id": "window_5",
+            "type": "window",
+            "height": 1500,
+            "width": 1000,
+            "thickness": 70,
+            "position": 0,
+            "open": "in",
+            "side": "left"
+          }
+        ]
+      },{
+        "id": "wall_6",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 100,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 4505,
+            "y": 259
+          },
+          "end": {
+            "x": 5371,
+            "y": 759
+          }
+        },
+        "entities": [
+          {
+            "id": "window_6",
+            "type": "window",
+            "height": 1500,
+            "width": 1000,
+            "thickness": 70,
+            "position": 0,
+            "open": "in",
+            "side": "left"
+          }
+        ]
+      },{
+        "id": "wall_7",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 100,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 5371,
+            "y": 759
+          },
+          "end": {
+            "x": 6078,
+            "y": 1466
+          }
+        },
+        "entities": [
+          {
+            "id": "window_7",
+            "type": "window",
+            "height": 1500,
+            "width": 1000,
+            "thickness": 70,
+            "position": 0,
+            "open": "in",
+            "side": "left"
+          }
+        ]
+      },{
+        "id": "wall_8",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 100,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 6078,
+            "y": 1466
+          },
+          "end": {
+            "x": 6078,
+            "y": 4500
+          }
+        },
+        "entities": [
+        ]
+      },{
+        "id": "wall_9",
+        "direction": "left",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 100,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 6078,
+            "y": 4500
+          },
+          "end": {
+            "x": 0,
+            "y": 4500
+          }
+        },
+        "entities": [
+          {
+            "id": "door_1",
+            "type": "door",
+            "height": 2100,
+            "width": 800,
+            "thickness": 50,
+            "position": 300,
+            "open": "in",
+            "model": "single",
+            "side": "start",
+            "entrance": "primary"
+          }
+        ]
+      },{
+        "id": "wall_10",
+        "direction": "right",
+        "type": "outer",
+        "bearing": 1,
+        "thickness": 100,
+        "height": 2800,
+        "corners": {
+          "start": {
+            "x": 0,
+            "y": 1466
+          },
+          "end": {
+            "x": 0,
+            "y": 4500
+          }
+        },
+        "entities": [
+
+        ]
+      }
+
+    ],
+    "rooms": [
+      {
+        "type": "room",
+        "id": "room_1",
+        "title": "kitchen",
+        "borders": ["wall_1", "wall_2", "wall_3", "wall_4", "wall_5",
+          "wall_6", "wall_7", "wall_8", "wall_9", "wall_10"]
+      }
+    ]
+  }
+}

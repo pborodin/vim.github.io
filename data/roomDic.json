@@ -1,0 +1,300 @@
+[
+    {
+        "id": "bedroom_8_12m2",
+        "title": "Спальня 8-12м2",
+        "minArea": 8,
+        "maxArea": 12,
+        "class": "bedroom",
+        "furniture": [
+            "bed_2000x1800",
+            "bedside_500x500",
+            "bedside_500x500",
+            "tv_700x40",
+            "bedside_tv_1200x300"
+        ]
+    },
+    {
+        "id": "bedroom_13_18m2",
+        "title": "Спальня 13-18м2",
+        "minArea": 13,
+        "maxArea": 18,
+        "class": "bedroom",
+        "furniture": [
+            "bed_2000x1800",
+            "bedside_500x500",
+            "bedside_500x500",
+            "tv_900x40",
+            "bedside_tv_1200x300",
+            "closet_1200x600",
+            "dressing_table_900x600",
+            "chair_500x500"
+        ]
+    },
+    {
+        "id": "bedroom_19_25m2",
+        "title": "Спальня 19-25м2",
+        "minArea": 19,
+        "maxArea": 25,
+        "class": "bedroom",
+        "furniture": [
+            "bed_2000x1800",
+            "bedside_500x500",
+            "bedside_500x500",
+            "tv_1200x40",
+            "bedside_tv_1200x300",
+            "closet_1800x600",
+            "dressing_table_900x600",
+            "armchair_800x800",
+            "chair_500x500"
+        ]
+    },
+    {
+        "id": "kitchen_living_13_24m2",
+        "title": "Кухня-гостиная 13-24м2",
+        "minArea": 13,
+        "maxArea": 24,
+        "class": "kitchen-living"
+    },
+    {
+        "id": "kitchen_living_25_35m2",
+        "title": "Кухня-гостиная 25-35м2",
+        "minArea": 25,
+        "maxArea": 35,
+        "class": "kitchen-living"
+    },
+    {
+        "id": "kitchen_living_36_50m2",
+        "title": "Кухня-гостиная 36-50м2",
+        "minArea": 36,
+        "maxArea": 50,
+        "class": "kitchen-living"
+    },
+    {
+        "id": "living_8_12m2",
+        "title": "Гостиная 8-12м2",
+        "minArea": 8,
+        "maxArea": 12,
+        "class": "living",
+        "furniture": [
+            "sofa_1800x900",
+            "coffee_table_800x600",
+            "tv_700x40",
+            "bedside_tv_1200x450",
+            "armchair_700x700"
+        ]
+    },
+    {
+        "id": "living_12_18m2",
+        "title": "Гостиная 12-18м2",
+        "minArea": 12,
+        "maxArea": 18,
+        "class": "living",
+        "furniture": [
+            "sofa_2200x1100",
+            "corner_sofa_2200x1500",
+            "coffee_table_800x600",
+            "tv_900x40",
+            "bedside_tv_1200x450",
+            "closet_1200x600",
+            "table_1200x600",
+            "chair_400x400"
+        ]
+    },
+    {
+        "id": "living_18_30m2",
+        "title": "Гостиная 18-30м2",
+        "minArea": 18,
+        "maxArea": 30,
+        "class": "living",
+        "furniture": []
+    },
+    {
+        "id": "kitchen_8_10m2",
+        "title": "Кухня 8-10м2",
+        "minArea": 8,
+        "maxArea": 10,
+        "class": "kitchen"
+    },
+    {
+        "id": "kitchen_11_15m2",
+        "title": "Кухня 11-15м2",
+        "minArea": 11,
+        "maxArea": 15,
+        "class": "kitchen"
+    },
+    {
+        "id": "kitchen_16_25m2",
+        "title": "Кухня 16-25м2",
+        "minArea": 16,
+        "maxArea": 25,
+        "class": "kitchen"
+    },
+    {
+        "id": "hallway_4_5m2",
+        "title": "Прихожая 4-5м2",
+        "minArea": 4,
+        "maxArea": 5,
+        "class": "hallway"
+    },
+    {
+        "id": "hallway_5_6m2",
+        "title": "Прихожая 5-6м2",
+        "minArea": 5,
+        "maxArea": 6,
+        "class": "hallway"
+    },
+    {
+        "id": "hallway_6_8m2",
+        "title": "Прихожая 6-8м2",
+        "minArea": 6,
+        "maxArea": 8,
+        "class": "hallway"
+    },
+    {
+        "id": "dressing_3_4m2",
+        "title": "Гардеробная 3-4м2",
+        "minArea": 3,
+        "maxArea": 4,
+        "class": "dressing"
+    },
+    {
+        "id": "dressing_5_6m2",
+        "title": "Гардеробная 5-6м2",
+        "minArea": 5,
+        "maxArea": 6,
+        "class": "dressing"
+    },
+    {
+        "id": "dressing_6_8m2",
+        "title": "Гардеробная 6-8м2",
+        "minArea": 6,
+        "maxArea": 8,
+        "class": "dressing"
+    },
+    {
+        "id": "dining_20_25m2",
+        "title": "Столовая 20-25м2",
+        "minArea": 20,
+        "maxArea": 25,
+        "class": "dining"
+    },
+    {
+        "id": "dining_25_32m2",
+        "title": "Столовая 25-32м2",
+        "minArea": 25,
+        "maxArea": 32,
+        "class": "dining"
+    },
+    {
+        "id": "dining_32_40m2",
+        "title": "Столовая 32-40м2",
+        "minArea": 32,
+        "maxArea": 40,
+        "class": "dining"
+    },
+    {
+        "id": "children_5_10m2",
+        "title": "Детская 5-10м2",
+        "minArea": 5,
+        "maxArea": 10,
+        "class": "children"
+    },
+    {
+        "id": "children_10_13m2",
+        "title": "Детская 10-13м2",
+        "minArea": 10,
+        "maxArea": 13,
+        "class": "children"
+    },
+    {
+        "id": "children_14_16m2",
+        "title": "Детская 14-16м2",
+        "minArea": 14,
+        "maxArea": 16,
+        "class": "children"
+    },
+    {
+        "id": "cabinet_8_10m2",
+        "title": "Кабинет 8-10м2",
+        "minArea": 8,
+        "maxArea": 10,
+        "class": "cabinet"
+    },
+    {
+        "id": "cabinet_10_14m2",
+        "title": "Кабинет 10-14м2",
+        "minArea": 10,
+        "maxArea": 14,
+        "class": "cabinet"
+    },
+    {
+        "id": "cabinet_15_17m2",
+        "title": "Кабинет 15-17м2",
+        "minArea": 15,
+        "maxArea": 17,
+        "class": "cabinet"
+    },
+    {
+        "id": "bathroom_3_5m2",
+        "title": "Ванная 3-5м2",
+        "minArea": 3,
+        "maxArea": 5,
+        "class": "bathroom"
+    },
+    {
+        "id": "bathroom_5_7m2",
+        "title": "Ванная 5-7м2",
+        "minArea": 5,
+        "maxArea": 7,
+        "class": "bathroom"
+    },
+    {
+        "id": "bathroom_7_12m2",
+        "title": "Ванная 7-12м2",
+        "minArea": 7,
+        "maxArea": 12,
+        "class": "bathroom"
+    },
+    {
+        "id": "toilet_2_3m2",
+        "title": "Туалет 2-3м2",
+        "minArea": 2,
+        "maxArea": 3,
+        "class": "toilet"
+    },
+    {
+        "id": "toilet_3_4m2",
+        "title": "Туалет 3-4м2",
+        "minArea": 3,
+        "maxArea": 4,
+        "class": "toilet"
+    },
+    {
+        "id": "toilet_5_7m2",
+        "title": "Туалет 5-7м2",
+        "minArea": 5,
+        "maxArea": 7,
+        "class": "toilet"
+    },
+    {
+        "id": "loggia_3_4m2",
+        "title": "Лоджия 3-4м2",
+        "minArea": 3,
+        "maxArea": 4,
+        "class": "loggia"
+    },
+    {
+        "id": "loggia_4_5m2",
+        "title": "Лоджия 4-5м2",
+        "minArea": 4,
+        "maxArea": 5,
+        "class": "loggia"
+    },
+    {
+        "id": "loggia_6_8m2",
+        "title": "Лоджия 6-8м2",
+        "minArea": 6,
+        "maxArea": 8,
+        "class": "loggia"
+    }
+]

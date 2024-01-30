@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="900" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#000000" fill-opacity="0" height="597" id="svg_1" stroke="#000000" stroke-width="2" transform="matrix(1, 0, 0, 1, 0, 0)" width="897" x="1.27" y="1.6"/>
+  <rect fill="#000000" fill-opacity="0" height="44" id="svg_2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" transform="matrix(1, 0, 0, 1, 0, 0)" width="853" x="27.27" y="30.6"/>
+  <circle cx="47.27" cy="305.6" fill="#000000" fill-opacity="0" id="svg_3" r="16.28" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null"/>
+  <circle cx="856.04" cy="309.78" fill="#000000" fill-opacity="0" id="svg_4" r="16.28" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null"/>
+ </g>
+</svg>

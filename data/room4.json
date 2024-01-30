@@ -1,0 +1,120 @@
+{
+    "space": {
+        "id": "bedroom_4",
+        "walls": [
+            {
+                "id": "wall_1",
+                "direction": "left",
+                "type": "outer",
+                "bearing": 1,
+                "thickness": 200,
+                "height": 3000,
+                "corners": {
+                    "start": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "end": {
+                        "x": 4979,
+                        "y": 0
+                    }
+                },
+                "entities": [
+                    {
+                        "id": "door_1",
+                        "type": "door",
+                        "height": 2100,
+                        "width": 1000,
+                        "thickness": 50,
+                        "position": 114,
+                        "open": "in",
+                        "model": "single",
+                        "side": "start",
+                        "entrance": "primary"
+                    }
+                ]
+            },
+            {
+                "id": "wall_2",
+                "direction": "left",
+                "type": "outer",
+                "bearing": 1,
+                "thickness": 200,
+                "height": 3000,
+                "corners": {
+                    "start": {
+                        "x": 4979,
+                        "y": 0
+                    },
+                    "end": {
+                        "x": 4979,
+                        "y": 5909
+                    }
+                },
+                "entities": [
+                    {
+                        "id": "window_2",
+                        "type": "window",
+                        "height": 1200,
+                        "width": 1200,
+                        "thickness": 70,
+                        "position": 397,
+                        "open": "in",
+                        "side": "right"
+                    }
+                ]
+            },
+            {
+                "id": "wall_3",
+                "direction": "left",
+                "type": "outer",
+                "bearing": 1,
+                "thickness": 200,
+                "height": 3000,
+                "corners": {
+                    "start": {
+                        "x": 4979,
+                        "y": 5909
+                    },
+                    "end": {
+                        "x": 0,
+                        "y": 5909
+                    }
+                },
+                "entities": []
+            },
+            {
+                "id": "wall_4",
+                "direction": "left",
+                "type": "outer",
+                "bearing": 1,
+                "thickness": 200,
+                "height": 3000,
+                "corners": {
+                    "start": {
+                        "x": 0,
+                        "y": 5909
+                    },
+                    "end": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                "entities": []
+            }
+        ],
+        "rooms": [
+            {
+                "type": "room",
+                "id": "bedroom_4",
+                "title": "bedroom_4",
+                "borders": [
+                    "wall_1",
+                    "wall_2",
+                    "wall_3",
+                    "wall_4"
+                ]
+            }
+        ]
+    }
+}

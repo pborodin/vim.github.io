@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#000000" fill-opacity="0" height="496.1" id="svg_1" stroke="#000000" stroke-width="2" transform="matrix(1, 0, 0, 1, 0, 0)" width="495.71" x="2.1" y="1.95"/>
+  <rect fill="#000000" fill-opacity="0" height="387.66" id="svg_2" stroke="#000000" stroke-width="2" width="457.14" x="20.69" y="64.62"/>
+  <line fill="none" fill-opacity="0" id="svg_3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="111.36" x2="382.79" y1="-24.62" y2="-24.62"/>
+  <line fill="none" fill-opacity="0" id="svg_4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="122.76" x2="371.34" y1="-14" y2="-14"/>
+  <line fill="none" fill-opacity="0" id="svg_5" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="111.56" x2="111.56" y1="-24.23" y2="1.77"/>
+  <line fill="none" fill-opacity="0" id="svg_7" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="382.22" x2="382.22" y1="-24.23" y2="1.1"/>
+  <line fill="none" fill-opacity="0" id="svg_8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="122.89" x2="122.89" y1="-13.57" y2="2.43"/>
+  <line fill="none" fill-opacity="0" id="svg_10" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="370.89" x2="370.89" y1="-13.57" y2="1.1"/>
+ </g>
+</svg>
